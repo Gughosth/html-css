@@ -1,0 +1,52 @@
+@charset "UTF-8"
+
+
+
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    background-color:whitesmoke;
+}
+
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    color:black;
+    border-style:groove;
+    text-align: center;
+
+
+}
+h1#principal{
+    font-style: italic;
+    color:rgb(43, 2, 2);
+    text-align: center;
+    
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+
+p{
+    text-align: justify;
+    text-indent: 30px;
+}
+
+.basico{
+    text-align: justify;
+    color: red;
+    font-weight: bold;
+
+}
+
+.intermediario{
+    text-align: justify;
+    color: cornflowerblue;
+    font-weight: bold;
+
+}
+
+.avançado{
+    text-align: justify;
+    color: rgba(88, 7, 7, 0.836);
+}
